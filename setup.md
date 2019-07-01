@@ -17,10 +17,6 @@ Install command-line tools for Xcode prior to installing homebrew
 Install homebrew from [here](https://brew.sh/) or in terminal:  
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-### Install NodeJS
-Install node from [here](https://nodejs.org/en/) or in terinal:  
-`brew install node`
-
 ### Spring Initializr
 A resource for bootstrapping a Spring application [Spring Initializr](https://start.spring.io/) 
 
